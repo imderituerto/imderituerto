@@ -4,20 +4,20 @@
 
 <h4 align="center">current projects</h4>
 <div align="center">
-<li><a href="https://github.com/nadia-dj98/capstone-project-back-end">Capstone project</a>
-<ul>Java (17.0.5), Spring Boot, PostgreSQL, JavaScript, React, Tailwind</ul>
+<li><a href="https://github.com/nadia-dj98/capstone-project-back-end">VolunTech</a>, capstone project for BNTA bootcamp</ul>
+<ul>[Java (17.0.5), Spring Boot, PostgreSQL, JavaScript, React, Tailwind]</ul>
 </div>
 
 <h4 align="center">recent projects</h4>
 
 <div align="center"> 
-  <li> <a href="https://github.com/imderituerto/BNTA_Backend_Project">RESTful API for movie reviews</a>
-<ul> Java (17.0.5), Spring Boot, PostgreSQL</ul>
+<li> <a href="https://github.com/imderituerto/BNTA_Backend_Project">notIMDB</a>, a RESTful API for movie reviews
+<ul> [Java (17.0.5), Spring Boot, PostgreSQL]</ul>
 </div>
 
 <div align="center"> 
-  <li> <a href="https://github.com/imderituerto/overREACTors_frontend_project">Bookshelf application (front-end)</a>
-<ul> JavaScript, React, Bootstrap</ul>
+<li> <a href="https://github.com/imderituerto/overREACTors_frontend_project">Biblion</a>, bookshelf application
+<ul>[JavaScript, React, Bootstrap]</ul>
 </div>
 
 <h4 align="center">languages</h3>
