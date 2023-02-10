@@ -1,5 +1,5 @@
 <h3 align="center">hi</h3>
-<p align="center"> i'm a newbie to github</p>
+<p align="center"> newbie to github</p>
 <p align="center"> currently part of cohort 7 of the Bright Network Technology Academy</p>
 
 <h4 align="center">current projects</h4>
