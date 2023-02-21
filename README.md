@@ -1,31 +1,43 @@
-<h3 align="center">hi</h3>
-<p align="center"> newbie to github</p>
-<p align="center"> currently part of cohort 7 of the Bright Network Technology Academy</p>
+<h3 align="center">:sparkles: hi, i'm isabel :sparkles:</h3>
+<p align="center"> 💻 graduate of the Bright Network Technology Academy (cohort 7)</p>
+<p align="center"> :rocket: currently working on using my full-stack engineering skills for good</p>
 
-<h4 align="center">current projects</h4>
+<h3 align="center">current projects</h3>
 <div align="center">
-<li><a href="https://github.com/nadia-dj98/capstone-project-back-end">VolunTech</a>, capstone project for BNTA bootcamp</ul>
-<ul>[Java (17.0.5), Spring Boot, PostgreSQL, JavaScript, React, Tailwind]</ul>
+<a href="https://github.com/imderituerto?tab=projects">Various API dashboards</a></ul>
 </div>
 
-<h4 align="center">recent projects</h4>
+<h3 align="center">recent projects</h3>
+
+<div align="center">
+<p><a href="https://github.com/nadia-dj98/capstone-project-back-end">VolunTech</a>
+<br>A job boards seeking to connect tech talent with opportunities for <br>social impact (capstone project for BNTA bootcamp) <br><i>Java, Spring Boot, PostgreSQL, <br>JavaScript, React, Tailwind</i></br>
+</div>
 
 <div align="center"> 
-<li> <a href="https://github.com/imderituerto/BNTA_Backend_Project">notIMDB</a>, a RESTful API for movie reviews
-<ul> [Java (17.0.5), Spring Boot, PostgreSQL]</ul>
+<a href="https://github.com/imderituerto/BNTA_Backend_Project">notIMDB</a>
+<br>RESTful API for viewing and posting movie reviews</br>
+<ul> <i>Java, Spring Boot, PostgreSQL</i></ul>
 </div>
 
 <div align="center"> 
-<li> <a href="https://github.com/imderituerto/overREACTors_frontend_project">Biblion</a>, bookshelf application
-<ul>[JavaScript, React, Bootstrap]</ul>
+<a href="https://github.com/imderituerto/overREACTors_frontend_project">Biblion</a>
+<br> A personal bookshelf application</br>
+<ul><i>JavaScript, React, Bootstrap</i></ul>
 </div>
 
-<h4 align="center">languages</h3>
+<div align="center"> 
+<a href="https://github.com/imderituerto/dissertation">Final year disseration</a> 
+<br>Univariate regression model of historical flight-to-quality relationship <br>between gold and stocks during stock market crashes</br>
+<ul><i>R</i></ul>
+</div>
+
+<h3 align="center">languages</h3>
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="center">tools</h3>
+<h3 align="center">tools</h3>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <p align="center"> 
