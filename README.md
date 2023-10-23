@@ -29,7 +29,7 @@ Projects that use simple APIs to build dynamic dashboards.
 </div>
 
 <div align="center"> 
-<a href="https://github.com/imderituerto/dissertation">Final year dissertation</a> 
+<a href="https://github.com/imderituerto/dissertation">BSc dissertation</a> 
 <br>Univariate regression model of historical flight-to-quality relationship <br>between gold and stocks during stock market crashes</br>
 <ul><i>R</i></ul>
 </div>
