@@ -4,8 +4,9 @@
 
 <h3 align="center">current projects</h3>
 <div align="center">
-<a href="https://github.com/imderituerto?tab=projects">Various API dashboards</a></ul>
-Projects that use simple APIs. 
+<a href="https://github.com/imderituerto?tab=projects">API dashboards</a></ul>
+<br>
+Projects that use simple APIs to build dynamic dashboards. 
 </div>
 
 <h3 align="center">recent projects</h3>
