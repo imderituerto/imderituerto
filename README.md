@@ -1,6 +1,6 @@
 <h3 align="center">:sparkles: hi :sparkles:</h3>
 <p align="center"> 💻 graduate of the Bright Network Technology Academy (cohort 7)</p>
-<p align="center"> :rocket: currently working on developing my full-stack engineering skills in some personal projects (see below!!)</p>
+<p align="center"> :rocket: currently working on developing my full-stack engineering skills in some personal projects </p>
 
 <h3 align="center">current projects</h3>
 <div align="center">
